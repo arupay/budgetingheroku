@@ -128,16 +128,9 @@ module.exports = [
   {
     date: "07/12/2022",
     name: "Pay Day",
-    amount: -1750,
+    amount: 1700,
     from: "Local 3 IBEW",
     category: "Wages & Income",
-  },
-  {
-    date: "07/13/2022",
-    name: "Cancun Plane Tickets",
-    amount: -800,
-    from: "Delta Airlines",
-    category: "Entertainment",
   },
   {
     date: "07/14/2022",
