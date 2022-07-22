@@ -22,10 +22,10 @@ module.exports = [
   },
   {
     date: "06/14/2022",
-    name: "Salary",
+    name: "Pay Day",
     amount: 1500,
     from: "Local 3 IBEW",
-    category: "Income",
+    category: "Wages & Income",
   },
   {
     date: "06/15/2022",
@@ -64,7 +64,7 @@ module.exports = [
   },
   {
     date: "06/28/2022",
-    name: "5 Star Electric",
+    name: "Pay Day",
     amount: 1500,
     from: "Local 3 IBEW",
     category: "Wages & Income",
