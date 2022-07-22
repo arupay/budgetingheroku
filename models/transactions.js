@@ -36,8 +36,8 @@ module.exports = [
   },
   {
     date: "06/17/2022",
-    name: "Beyonce",
-    amount: -600,
+    name: "Beyonce Concert at MSG",
+    amount: -500,
     from: "Ticketmaster",
     category: "Entertainment",
   },
