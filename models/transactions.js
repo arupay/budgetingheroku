@@ -11,7 +11,7 @@ module.exports = [
     name: "Dinner",
     amount: -100,
     from: "Rosa Mexicana",
-    category: "Dining",
+    category: "Dining & Drinks",
   },
   {
     date: "03/08/2021",
@@ -46,6 +46,20 @@ module.exports = [
     name: "Electric",
     amount: -100,
     from: "Con Edison",
+    category: "Utilities",
+  },
+  {
+    date: "03/13/2021",
+    name: "Drinks",
+    amount: -25,
+    from: "Sean Og's Pub",
+    category: "Dining & Drinks",
+  },
+  {
+    date: "03/15/2021",
+    name: "Internet",
+    amount: -45,
+    from: "Verizon Fios",
     category: "Utilities",
   },
 ];
