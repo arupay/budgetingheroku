@@ -1,7 +1,7 @@
 module.exports = [
   {
     date: "03/02/2021",
-    name: "4K Plasta TV",
+    name: "4K Plasma TV",
     amount: 525,
     from: "Best Buy Inc.",
     category: "Shopping",
