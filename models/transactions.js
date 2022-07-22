@@ -23,7 +23,7 @@ module.exports = [
   {
     date: "06/14/2022",
     name: "Pay Day",
-    amount: 1500,
+    amount: 1700,
     from: "Local 3 IBEW",
     category: "Wages & Income",
   },
@@ -65,7 +65,7 @@ module.exports = [
   {
     date: "06/28/2022",
     name: "Pay Day",
-    amount: 1500,
+    amount: 1700,
     from: "Local 3 IBEW",
     category: "Wages & Income",
   },
