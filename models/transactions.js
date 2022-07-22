@@ -160,4 +160,11 @@ module.exports = [
     from: "Delta",
     category: "Travel & Leisure",
   },
+  {
+    date: "07/16/2022",
+    name: "Bday Gift for Mike",
+    amount: -40,
+    from: "Empire Liquors",
+    category: "Other",
+  },
 ];
