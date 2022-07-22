@@ -1,13 +1,12 @@
-const express = require("express");
+const express = require("express"); //import express
 const transactionController = require("./controllers/transactions.controllers");
 const cors = require("cors");
 
 //config
 const app = express();
 
-//CORS 
-app.use(cors());
-
+//CORS
+app.use(cors()); // Allow any app/site to access
 app.use(express.json()); // Parse incoming JSON
 
 app.get("/", (req, res) => {
