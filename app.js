@@ -10,7 +10,7 @@ app.use(cors()); // Allow any app/site to access
 app.use(express.json()); // Parse incoming JSON
 
 app.get("/", (req, res) => {
-  res.send("Hello World");
+  res.send("Welcome to Budget Genie!");
 });
 
 app.use("/transactions", transactionController);
