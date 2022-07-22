@@ -1,7 +1,7 @@
 //Dependencies
-const express = require("express");
-const cors = require("cors");
-const app = express();
+
+const app = require("./app.js");
+// const transactions = require("./models/transactions");
 
 require("dotenv").config();
 
@@ -13,15 +13,19 @@ const PORT = process.env.PORT || 3003;
 //Middleware
 //___________________
 
-app.use(express.json()); // returns middleware that only parses JSON
+// returns middleware that only parses JSON
 
 // this allows any app/site from anywhere access your API. This is a great way to start to get things up and running. Later, add restrictions, as needed.
-app.use(cors());
 
 // Routes
-app.get("/", (req, res) => {
-  res.send("Hello World!");
-});
+
+// app.get("/transactions", (req, res) => {
+//   res.json(transactions);
+// });
+
+// app.get("/transactions/:id", (req, res) => {
+//   res.json(transactions[req.params.id]);
+// });
 
 //Listen
 app.listen(PORT, () => console.log("Listening on port:", PORT));
