@@ -32,7 +32,7 @@ module.exports = [
     category: "Wages & Income",
   },
   {
-    type: "expense",
+    type: "income",
     date: "2022-06-15",
     name: "Dividends",
     amount: 150,
