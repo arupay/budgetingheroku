@@ -32,6 +32,7 @@ module.exports = [
     category: "Wages & Income",
   },
   {
+    type: "expense",
     date: "2022-06-15",
     name: "Dividends",
     amount: 150,
@@ -39,6 +40,7 @@ module.exports = [
     category: "Investments",
   },
   {
+    type: "expense",
     date: "2022-06-17",
     name: "Beyonce Concert at MSG",
     amount: -500,
@@ -46,6 +48,7 @@ module.exports = [
     category: "Entertainment",
   },
   {
+    type: "expense",
     date: "2022-06-18",
     name: "Electric Bill",
     amount: -100,
@@ -53,6 +56,7 @@ module.exports = [
     category: "Utilities",
   },
   {
+    type: "expense",
     date: "2022-06-19",
     name: "Drinks",
     amount: -25,
@@ -60,6 +64,7 @@ module.exports = [
     category: "Dining & Drinks",
   },
   {
+    type: "expense",
     date: "2022-06-20",
     name: "Internet Bill",
     amount: -45,
@@ -67,6 +72,7 @@ module.exports = [
     category: "Utilities",
   },
   {
+    type: "income",
     date: "2022-06-28",
     name: "Pay Day",
     amount: 1700,
@@ -74,6 +80,7 @@ module.exports = [
     category: "Wages & Income",
   },
   {
+    type: "expense",
     date: "2022-06-29",
     name: "Groceries",
     amount: -75,
@@ -81,6 +88,7 @@ module.exports = [
     category: "Groceries",
   },
   {
+    type: "expense",
     date: "2022-07-01",
     name: "Rent",
     amount: -1550,
@@ -88,6 +96,7 @@ module.exports = [
     category: "Rent & Mortgage",
   },
   {
+    type: "expense",
     date: "2022-07-02",
     name: "Gym",
     amount: -200,
@@ -95,6 +104,7 @@ module.exports = [
     category: "Health & Wellness",
   },
   {
+    type: "expense",
     date: "2022-07-03",
     name: "Dentist",
     amount: -30,
@@ -102,6 +112,7 @@ module.exports = [
     category: "Health & Wellness",
   },
   {
+    type: "expense",
     date: "2022-07-04",
     name: "Fireworks",
     amount: -100,
@@ -109,6 +120,7 @@ module.exports = [
     category: "Entertainment",
   },
   {
+    type: "expense",
     date: "2022-07-05",
     name: "Monthly Subway Fare",
     amount: -100,
@@ -116,6 +128,7 @@ module.exports = [
     category: "Transportation",
   },
   {
+    type: "income",
     date: "2022-07-06",
     name: "Tax Return",
     amount: 500,
@@ -123,6 +136,7 @@ module.exports = [
     category: "Wages & Income",
   },
   {
+    type: "expense",
     date: "2022-07-08",
     name: "Pharmacy Medication",
     amount: -10,
@@ -130,6 +144,7 @@ module.exports = [
     category: "Health & Wellness",
   },
   {
+    type: "income",
     date: "2022-07-09",
     name: "Pay Day",
     amount: 1700,
@@ -137,6 +152,7 @@ module.exports = [
     category: "Wages & Income",
   },
   {
+    type: "expense",
     date: "2022-07-14",
     name: "Groceries",
     amount: -150,
@@ -144,6 +160,7 @@ module.exports = [
     category: "Groceries",
   },
   {
+    type: "expense",
     date: "2022-07-15",
     name: "Veterinary",
     amount: -1000,
@@ -151,6 +168,7 @@ module.exports = [
     category: "Pet",
   },
   {
+    type: "expense",
     date: "2022-07-16",
     name: "Uber",
     amount: -27,
@@ -158,6 +176,7 @@ module.exports = [
     category: "Transportation",
   },
   {
+    type: "expense",
     date: "2022-07-17",
     name: "Cancun Airfare",
     amount: -520,
@@ -165,6 +184,7 @@ module.exports = [
     category: "Travel & Leisure",
   },
   {
+    type: "expense",
     date: "2022-07-20",
     name: "Bday Gift for Mike",
     amount: -40,
