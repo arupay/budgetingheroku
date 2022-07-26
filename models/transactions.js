@@ -189,6 +189,6 @@ module.exports = [
     name: "Bday Gift for Mike",
     amount: -40,
     from: "Empire Liquors",
-    category: "Other",
+    category: "Misc Expense",
   },
 ];
