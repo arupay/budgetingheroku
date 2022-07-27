@@ -104,6 +104,14 @@ module.exports = [
     category: "Health & Wellness",
   },
   {
+    type: "income",
+    date: "2022-07-02",
+    name: "Graduation gift",
+    amount: 800,
+    from: "Grandma",
+    category: "Gifts",
+  },
+  {
     type: "expense",
     date: "2022-07-03",
     name: "Dentist",
