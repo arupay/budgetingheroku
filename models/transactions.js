@@ -13,7 +13,7 @@ module.exports = [
     name: "Dinner",
     amount: -100,
     from: "Rosa Mexicana",
-    category: "Dining & Drinks",
+    category: "Entertainment & Social",
   },
   {
     type: "expense",
@@ -21,7 +21,7 @@ module.exports = [
     name: "Dog Food",
     amount: -50,
     from: "Petco",
-    category: "Pet",
+    category: "Misc Expense",
   },
   {
     type: "income",
@@ -61,7 +61,7 @@ module.exports = [
     name: "Drinks",
     amount: -25,
     from: "Sean Og's Pub",
-    category: "Dining & Drinks",
+    category: "Entertainment & Social",
   },
   {
     type: "expense",
@@ -117,7 +117,7 @@ module.exports = [
     name: "Fireworks",
     amount: -100,
     from: "PA Fireworks",
-    category: "Entertainment",
+    category: "Entertainment & Social",
   },
   {
     type: "expense",
@@ -158,14 +158,6 @@ module.exports = [
     amount: -150,
     from: "Key Foods",
     category: "Groceries",
-  },
-  {
-    type: "expense",
-    date: "2022-07-15",
-    name: "Veterinary",
-    amount: -1000,
-    from: "Rego Park Vets",
-    category: "Pet",
   },
   {
     type: "expense",
